@@ -1,5 +1,5 @@
 package br.com.petz.clientepet.cliente.application.api;
 
-public class ClientResponse {
+public class ClienteResponse {
 
 }
