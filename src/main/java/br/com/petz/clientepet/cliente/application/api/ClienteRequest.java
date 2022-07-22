@@ -10,9 +10,9 @@ import org.hibernate.validator.constraints.br.CPF;
 
 import br.com.petz.clientepet.cliente.domain.Sexo;
 import lombok.Value;
+
 @Value
 public class ClienteRequest {
-
 	@NotBlank
 	private String nomeCompleto;
 	@NotBlank
